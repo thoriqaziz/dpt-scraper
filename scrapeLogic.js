@@ -11,7 +11,7 @@ const scrapeLogic = async (req, res) => {
   //   ]
   // });
 
-  Run in server
+  // Run in server
   const browser = await puppeteer.launch({
     // headless: "new",
     args: [
